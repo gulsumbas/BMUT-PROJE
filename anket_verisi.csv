@@ -1,0 +1,366 @@
+Zaman damgası,Cinsiyetiniz nedir?,Kaçıncı sınıfta eğitim görüyorsunuz?,Hangi fakültede öğrenim görüyorsunuz?,Not ortalamanız hangi sistem üzerinden hesaplanıyor?,4'lük sistemde geçen dönemki ortalamanızı giriniz (Küsüratlı değerleri virgül yerine noktayla ayırınız. Örn: 2.15):,4'lük sistemde genel ortalamanızı giriniz (Küsüratlı değerleri virgül yerine noktayla ayırınız. Örn: 2.15):,100'lük sistemde geçen dönemki ortalamanızı giriniz (Küsüratlı değerleri virgül yerine noktayla ayırınız. Örn: 93.5):,100'lük sistemde genel ortalamanızı giriniz (Küsüratlı değerleri virgül yerine noktayla ayırınız. Örn: 93.5):,Önceki dönem aldığınız ders sayısını giriniz:,Önceki dönem başarısız olduğunuz ders sayısını giriniz:,Haftada kaç saat ders çalışıyorsunuz?,Sınav haftaları kaç saat ders çalışıyorsunuz?,Annenizin eğitim durumu nedir?,Babanızın eğitim durumu nedir?,Evinizin aylık toplam geliri ne kadardır?,Bir işte çalışıyor musunuz?,Eğitim-öğretim dönemi içerisinde nerede ikamet ediyorsunuz?,Günlük ortalama ekran sürenizi seçiniz:,Günlük ortalama uyku sürenizi seçiniz:
+04.03.2026 12:26:37,Kadın,3.sınıf,Mühendislik Fakültesi,100'lük sistem,,,75.00,70,15,5,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+04.03.2026 19:51:33,Erkek,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.28,2.38,,,13,0,0-5 saat,0-5 saat,İlkokul,İlkokul,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,10 - 15 saat
+04.03.2026 19:57:09,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,1.92,2.66,,,8,3,10-20 saat,30-50 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+04.03.2026 20:04:19,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.50,3,,,6,0,5-10 saat,10-20 saat,Ortaokul,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:05:23,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,1.37,1.83,,,8,4,10-20 saat,30-50 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 20:06:06,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.60,2.65,,,8,0,0-5 saat,30-50 saat,İlkokul,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+04.03.2026 20:06:14,Kadın,4.sınıf,Mühendislik Fakültesi,4'lük sistem,3,2.63,,,2,0,5-10 saat,10-20 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:06:25,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.5,3.12,,,6,0,20-30 saat,20-30 saat,Lise,Lise,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+04.03.2026 20:06:28,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.33,3.43,,,9,0,10-20 saat,20-30 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 20:06:53,Kadın,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.21,2.21,,,6,2,5-10 saat,10-20 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 20:07:21,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.84,3.22,,,6,0,10-20 saat,20-30 saat,Lise,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:09:03,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.41,2.64,,,7,0,0-5 saat,5-10 saat,Ortaokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,7 - 10 saat,3 - 6 saat
+04.03.2026 20:11:37,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,3.15,3.05,,,15,0,10-20 saat,10-20 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:12:41,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.33,2.86,,,9,2,5-10 saat,10-20 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+04.03.2026 20:12:53,Kadın,1.sınıf,Diğer,4'lük sistem,3.50,3.78,,,9,0,10-20 saat,20-30 saat,Lise,Lise,0 - 28.075 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 20:15:38,Erkek,2.sınıf,Diğer,4'lük sistem,2.83,3.20,,,10,1,5-10 saat,5-10 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Full-Time çalışıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+04.03.2026 20:17:38,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,4.00,3.35,,,7,0,0-5 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 20:17:39,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.53,2.64,,,8,0,20-30 saat,30-50 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 20:20:29,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,1.95,2.50,,,6,2,0-5 saat,10-20 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+04.03.2026 20:24:53,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.45,3.12,,,8,0,0-5 saat,5-10 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:25:48,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.28,1.97,,,8,2,0-5 saat,10-20 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:26:00,Erkek,1.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.41,3.41,,,11,0,10-20 saat,30-50 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:26:14,Erkek,Hazırlık,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,2.70,2.78,,,6,1,0-5 saat,0-5 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Full-Time çalışıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:26:57,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,3.38,3.03,,,7,0,5-10 saat,30-50 saat,Lise,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:29:47,Kadın,2.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,2.1,2.1,,,9,2,5-10 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:29:52,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,1.98,2.10,,,11,2,0-5 saat,10-20 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+04.03.2026 20:33:45,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.15,2.15,,,8,0,0-5 saat,10-20 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:35:26,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.72,2.57,,,8,0,0-5 saat,5-10 saat,İlkokul,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:38:57,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.43,3.36,,,7,0,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 20:40:36,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.84,2.89,,,10,0,20-30 saat,50+ saat,Ortaokul,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Diğer,0 - 3 saat,7 - 10 saat
+04.03.2026 20:40:40,Kadın,2.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.34,3.47,,,9,0,5-10 saat,30-50 saat,Ortaokul,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:45:32,Kadın,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.72,2.59,,,5,0,0-5 saat,5-10 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:45:58,Erkek,2.sınıf,Diğer,4'lük sistem,2.70,2.83,,,10,0,0-5 saat,20-30 saat,Ortaokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:46:00,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.19,3.23,,,12,0,0-5 saat,50+ saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:47:09,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.30,3.30,,,9,0,0-5 saat,10-20 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:47:49,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.75,2.75,,,13,0,10-20 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+04.03.2026 20:49:27,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.37,3.47,,,6,1,5-10 saat,10-20 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+04.03.2026 20:50:28,Erkek,1.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.42,3.42,,,9,0,0-5 saat,30-50 saat,Lise,Lise,60.000 - 90.000 TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:50:48,Erkek,Diğer,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.56,2.85,,,9,0,0-5 saat,50+ saat,İlkokul,Ortaokul,0 - 28.075 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 20:52:06,Kadın,2.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.49,2.64,,,5,1,5-10 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 20:52:25,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.25,2.90,,,16,2,10-20 saat,10-20 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,0 - 3 saat,3 - 6 saat
+04.03.2026 20:53:30,Kadın,4.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.38,3.02,,,8,0,5-10 saat,20-30 saat,Lise,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 20:53:41,Kadın,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,0,3.25,,,7,0,5-10 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 20:54:25,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.23,3.18,,,6,0,0-5 saat,10-20 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:55:47,Kadın,4.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.15,2.97,,,9,1,0-5 saat,0-5 saat,Ortaokul,Ortaokul,60.000 - 90.000 TL,Part-Time çalışıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 20:56:52,Kadın,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.3,3.28,,,8,1,0-5 saat,5-10 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 21:04:16,Kadın,4.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.0,2.80,,,7,0,50+ saat,50+ saat,Ortaokul,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+04.03.2026 21:04:27,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.33,2.85,,,8,0,30-50 saat,10-20 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 21:05:18,Erkek,Diğer,Mühendislik Fakültesi,4'lük sistem,4,4,,,2,0,5-10 saat,5-10 saat,Hiçbiri,İlkokul,90.000+ TL,Full-Time çalışıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+04.03.2026 21:15:40,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,2.96,2.98,,,9,0,5-10 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 21:16:32,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.95,2.89,,,6,0,0-5 saat,5-10 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+04.03.2026 21:17:06,Kadın,4.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.47,3,,,8,1,0-5 saat,30-50 saat,Üniversite,Lise,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+04.03.2026 21:21:36,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.45,2.93,,,6,1,10-20 saat,30-50 saat,İlkokul,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 21:21:49,Kadın,6.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.8,3.3,,,6,0,10-20 saat,20-30 saat,İlkokul,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 21:24:03,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,2.78,2.78,,,8,0,0-5 saat,50+ saat,Ortaokul,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 21:24:40,Kadın,4.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.10,2.80,,,9,0,5-10 saat,50+ saat,Ortaokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 21:32:30,Kadın,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.80,2.64,,,4,0,0-5 saat,10-20 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+04.03.2026 21:35:22,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.12,3.27,,,11,0,20-30 saat,50+ saat,Lise,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+04.03.2026 21:40:20,Erkek,Diğer,Mühendislik Fakültesi,4'lük sistem,2.0,2.0,46.00,46.00,6,0,5-10 saat,10-20 saat,Üniversite,Lise,28.075 - 60.000 TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,3 - 6 saat
+04.03.2026 21:41:29,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.42,3.68,,,8,0,5-10 saat,5-10 saat,Üniversite,Lise,0 - 28.075 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 21:50:22,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.10,2.30,,,10,5,10-20 saat,20-30 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 21:58:08,Kadın,Hazırlık,Mühendislik Fakültesi,100'lük sistem,,,72.00,74.0,3,0,0-5 saat,5-10 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 22:03:04,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.2,3.1,,,7,0,5-10 saat,10-20 saat,Üniversite,Üniversite,0 - 28.075 TL,Çalışmıyorum.,Yurt,0 - 3 saat,3 - 6 saat
+04.03.2026 22:06:25,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.08,3.08,,,20,0,10-20 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 22:11:21,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.60,2.98,,,7,5,10-20 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 22:13:40,Kadın,3.sınıf,Diğer,4'lük sistem,3.51,3.32,,,12,0,0-5 saat,50+ saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 22:21:41,Kadın,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,46.00,65.0,24,0,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 22:21:42,Erkek,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.5,2.7,,,6,0,5-10 saat,30-50 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,3 - 6 saat
+04.03.2026 22:25:21,Kadın,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.13,2.15,,,11,4,5-10 saat,10-20 saat,İlkokul,Lise,28.075 - 60.000 TL,Full-Time çalışıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+04.03.2026 22:34:12,Erkek,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,71.32,70.0,24,0,0-5 saat,50+ saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+04.03.2026 22:37:13,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.37,2.96,,,9,0,5-10 saat,5-10 saat,Lise,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+04.03.2026 22:37:18,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.11,2.90,,,6,0,0-5 saat,30-50 saat,İlkokul,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 22:46:23,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.80,2.92,,,8,0,10-20 saat,30-50 saat,Lise,Lise,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 22:46:36,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,2.34,2.34,,,9,1,0-5 saat,5-10 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+04.03.2026 22:49:06,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.17,2.56,,,11,0,0-5 saat,20-30 saat,İlkokul,Lise,0 - 28.075 TL,Çalışmıyorum.,Yurt,7 - 10 saat,3 - 6 saat
+04.03.2026 22:56:11,Kadın,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.51 ,2.39,,,4,1,5-10 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+04.03.2026 23:01:28,Erkek,Diğer,Diğer,4'lük sistem,3.11,2.90,,,12,0,5-10 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+04.03.2026 23:39:41,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,1.25,2.25,,,10,4,0-5 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+04.03.2026 23:49:33,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.2,3.0,,,13,0,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+05.03.2026 02:34:38,Kadın,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.5,2.7,,,12,0,0-5 saat,0-5 saat,Ortaokul,Lise,90.000+ TL,Part-Time çalışıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+05.03.2026 05:48:46,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.16,3.24,,,9,0,10-20 saat,30-50 saat,Üniversite,Ortaokul,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+05.03.2026 06:49:33,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.5,3.45,,,8,0,0-5 saat,0-5 saat,İlkokul,Ortaokul,0 - 28.075 TL,Çalışmıyorum.,Aile evi,0 - 3 saat,10 - 15 saat
+05.03.2026 08:29:07,Kadın,3.sınıf,Diğer,100'lük sistem,,,80.3,80.3,8,1,0-5 saat,0-5 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+05.03.2026 08:29:45,Kadın,2.sınıf,Diğer,4'lük sistem,2.78,3.1,,,8,0,0-5 saat,10-20 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Full-Time çalışıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+05.03.2026 08:43:32,Kadın,1.sınıf,Diğer,4'lük sistem,3.68,3.68,,,9,0,5-10 saat,5-10 saat,İlkokul,İlkokul,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+05.03.2026 08:54:17,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.40,3.37,,,7,0,10-20 saat,20-30 saat,Lise,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,7 - 10 saat,3 - 6 saat
+05.03.2026 09:35:04,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.29,3.17,,,7,0,0-5 saat,5-10 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+05.03.2026 11:33:17,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.43,2.74,,,9,0,5-10 saat,10-20 saat,İlkokul,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+05.03.2026 11:52:15,Kadın,1.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,2.90,2.90,,,9,0,5-10 saat,10-20 saat,Ortaokul,İlkokul,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,0 - 3 saat,3 - 6 saat
+05.03.2026 12:00:07,Erkek,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.90,3.82,,,9,0,30-50 saat,30-50 saat,İlkokul,Lise,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+05.03.2026 12:21:37,Kadın,2.sınıf,Diğer,4'lük sistem,2.97,2.93,,,7,0,20-30 saat,50+ saat,Lise,Üniversite,0 - 28.075 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+05.03.2026 12:56:30,Kadın,2.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,2.98,2.80,,,8,0,20-30 saat,20-30 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+05.03.2026 13:07:28,Kadın,1.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,1.8,2,,,8,2,0-5 saat,5-10 saat,Ortaokul,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+05.03.2026 14:20:22,Kadın,1.sınıf,Diğer,4'lük sistem,2.88,2.80,,,9,0,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+05.03.2026 14:47:28,Kadın,1.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,2.05,2.05,,,7,1,0-5 saat,0-5 saat,Lise,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,10 - 15 saat
+05.03.2026 15:20:46,Kadın,Hazırlık,Diğer,100'lük sistem,,,72.5,76.8,4,0,5-10 saat,10-20 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+05.03.2026 15:50:00,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.45,2.80,,,11,0,10-20 saat,30-50 saat,Lise,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+05.03.2026 16:41:49,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.89,2.62,,,6,0,10-20 saat,30-50 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+05.03.2026 17:18:16,Kadın,1.sınıf,Diğer,4'lük sistem,3.18,3.17,,,10,0,10-20 saat,10-20 saat,İlkokul,Lise,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+05.03.2026 17:49:58,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.07,2.9,,,11,4,5-10 saat,10-20 saat,İlkokul,Üniversite,0 - 28.075 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+05.03.2026 19:25:24,Erkek,Diğer,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.71,2.71,,,11,1,0-5 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Full-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+05.03.2026 22:15:41,Erkek,4.sınıf,Mühendislik Fakültesi,100'lük sistem,,,53.5,55.78,8,2,0-5 saat,10-20 saat,Lise,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,3 - 6 saat
+05.03.2026 22:17:40,Erkek,4.sınıf,Mühendislik Fakültesi,100'lük sistem,,,74.75,77.02,8,0,5-10 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+06.03.2026 16:30:53,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,1.95,2.50,,,6,2,0-5 saat,10-20 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+06.03.2026 16:32:08,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.00,3.03,,,6,0,20-30 saat,30-50 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+06.03.2026 16:32:30,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,1.96,2.45,,,8,3,10-20 saat,50+ saat,Lise,Üniversite,0 - 28.075 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+06.03.2026 16:33:44,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,0,0,,,9,0,50+ saat,50+ saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,15 - 24 saat,15 - 24 saat
+06.03.2026 16:34:31,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.95,2.89,,,6,0,0-5 saat,5-10 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+06.03.2026 17:21:11,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.45,3.12,,,7,0,0-5 saat,5-10 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,3 - 6 saat
+06.03.2026 17:28:47,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.72,2.57,,,8,8,0-5 saat,5-10 saat,İlkokul,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+06.03.2026 17:34:02,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.4,2.3,,,9,1,0-5 saat,20-30 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+06.03.2026 17:35:13,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.25,2.70,,,7,2,0-5 saat,0-5 saat,İlkokul,Üniversite,60.000 - 90.000 TL,Full-Time çalışıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+06.03.2026 17:44:38,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.51,2.47,,,72,2,0-5 saat,5-10 saat,İlkokul,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+06.03.2026 17:50:54,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.40,2.53,,,6,0,0-5 saat,30-50 saat,Ortaokul,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+06.03.2026 17:51:23,Kadın,Diğer,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,4,4,,,7,0,5-10 saat,5-10 saat,Ortaokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+06.03.2026 19:59:21,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.81,2.89,,,6,0,0-5 saat,10-20 saat,İlkokul,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+06.03.2026 20:08:59,Kadın,2.sınıf,Diğer,4'lük sistem,3,3.9,,,8,1,0-5 saat,0-5 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,7 - 10 saat,7 - 10 saat
+06.03.2026 20:09:49,Kadın,2.sınıf,Diğer,4'lük sistem,3.04,3.04,,,9,0,0-5 saat,0-5 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Diğer,3 - 6 saat,3 - 6 saat
+06.03.2026 20:11:44,Kadın,2.sınıf,Diğer,4'lük sistem,3.00,3.5,,,7,1,0-5 saat,0-5 saat,İlkokul,İlkokul,0 - 28.075 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+06.03.2026 20:14:52,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3,2.77,,,7,0,10-20 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+06.03.2026 20:17:22,Kadın,2.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.45,2.45,,,7,6,5-10 saat,5-10 saat,Hiçbiri,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+06.03.2026 20:19:05,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,0.96,2.00,,,8,5,0-5 saat,5-10 saat,Lise,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+06.03.2026 20:33:08,Kadın,2.sınıf,Diğer,4'lük sistem,3.25,2.80,,,9,0,5-10 saat,30-50 saat,Ortaokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+06.03.2026 22:21:37,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.22,2.56,,,8,0,5-10 saat,20-30 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+06.03.2026 22:24:31,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.8,2.3,,,9,1,5-10 saat,20-30 saat,İlkokul,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+06.03.2026 22:37:49,Kadın,1.sınıf,Diğer,4'lük sistem,3.30,3.30,,,7,0,0-5 saat,0-5 saat,İlkokul,Lise,90.000+ TL,Çalışmıyorum.,Aile evi,15 - 24 saat,3 - 6 saat
+06.03.2026 23:30:24,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.43,3.30,,,9,0,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+07.03.2026 01:43:58,Kadın,3.sınıf,Diğer,4'lük sistem,2.90,2.80,,,8,0,10-20 saat,20-30 saat,Üniversite,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,10 - 15 saat,3 - 6 saat
+07.03.2026 01:56:30,Kadın,Diğer,Diğer,4'lük sistem,2.14,2.16,,,10,2,0-5 saat,5-10 saat,Lise,Üniversite,0 - 28.075 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+07.03.2026 04:11:17,Erkek,1.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.50,3.20,,,6,0,20-30 saat,10-20 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+07.03.2026 08:01:57,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.56,3.30,,,14,0,5-10 saat,30-50 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+07.03.2026 17:34:23,Kadın,2.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.80,2.70,,,8,3,0-5 saat,5-10 saat,Ortaokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Diğer,3 - 6 saat,7 - 10 saat
+07.03.2026 21:10:43,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.7,2.4,,,7,2,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,10 - 15 saat
+07.03.2026 21:31:59,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,1.57,1.63,,,10,7,20-30 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+07.03.2026 21:46:26,Erkek,5.sınıf,Mühendislik Fakültesi,4'lük sistem,2.25,2.25,,,8,4,5-10 saat,0-5 saat,İlkokul,Lise,28.075 - 60.000 TL,Part-Time çalışıyorum.,Öğrenci evi,7 - 10 saat,3 - 6 saat
+07.03.2026 22:09:25,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.08,3.08,,,8,0,5-10 saat,20-30 saat,Lise,İlkokul,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+07.03.2026 22:10:00,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,1.95,2.50,,,6,2,0-5 saat,10-20 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+07.03.2026 22:48:18,Kadın,2.sınıf,Diğer,4'lük sistem,2.79,2.78,,,8,0,20-30 saat,5-10 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+07.03.2026 23:26:29,Kadın,Hazırlık,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,80.5,80.6,5,0,30-50 saat,50+ saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+08.03.2026 02:06:16,Kadın,Diğer,Diğer,100'lük sistem,,,85.00,85.01,16,1,5-10 saat,10-20 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+08.03.2026 19:24:40,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,2.56,2.56,,,9,1,5-10 saat,10-20 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+10.03.2026 19:46:57,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.8,2.9,,,9,1,5-10 saat,5-10 saat,İlkokul,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+11.03.2026 08:47:52,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.05,2.9,,,8,8,0-5 saat,0-5 saat,Ortaokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 08:52:04,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.23,3.20,,,8,8,0-5 saat,5-10 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,10 - 15 saat,7 - 10 saat
+11.03.2026 08:55:40,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.33,3.44,,,7,0,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,0 - 3 saat,3 - 6 saat
+11.03.2026 08:58:48,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.22,2.76,,,9,0,5-10 saat,10-20 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+11.03.2026 09:25:52,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.45,2.34,,,13,2,0-5 saat,0-5 saat,Ortaokul,Lise,60.000 - 90.000 TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,0 - 3 saat
+11.03.2026 09:40:32,Kadın,2.sınıf,Diğer,4'lük sistem,2.50,2.17,,,8,4,20-30 saat,10-20 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+11.03.2026 09:43:50,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.68,3.10,,,6,0,10-20 saat,20-30 saat,Ortaokul,Ortaokul,0 - 28.075 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+11.03.2026 10:22:59,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.65,3.65,,,8,0,0-5 saat,20-30 saat,Lise,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 10:31:02,Kadın,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,1.43,2.22,,,7,3,10-20 saat,30-50 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 10:42:54,Erkek,5.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,3.0,2.75,,,5,0,0-5 saat,10-20 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+11.03.2026 11:00:27,Erkek,1.sınıf,Diğer,4'lük sistem,3.86,3.86,,,7,0,0-5 saat,10-20 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 11:04:10,Erkek,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.44,3.10,,,10,0,5-10 saat,10-20 saat,Hiçbiri,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 11:13:02,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,68.00,68.0,7,0,10-20 saat,20-30 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 11:13:56,Erkek,Diğer,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,3.70,3.59,,,2,0,10-20 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+11.03.2026 11:17:50,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.48,3.48,,,5,0,5-10 saat,20-30 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+11.03.2026 11:46:40,Erkek,1.sınıf,Diğer,4'lük sistem,3.50,3.50,,,6,0,5-10 saat,10-20 saat,Üniversite,Lise,90.000+ TL,Part-Time çalışıyorum.,Yurt,10 - 15 saat,7 - 10 saat
+11.03.2026 11:50:04,Erkek,2.sınıf,Diğer,4'lük sistem,2,2,,,9,4,0-5 saat,0-5 saat,Lise,Ortaokul,90.000+ TL,Full-Time çalışıyorum.,Aile evi,10 - 15 saat,7 - 10 saat
+11.03.2026 11:58:18,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.7,3.9,,,8,0,10-20 saat,0-5 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Part-Time çalışıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 12:01:02,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.5,2.68,,,10,0,0-5 saat,5-10 saat,Lise,Lise,60.000 - 90.000 TL,Part-Time çalışıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 12:02:29,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.03,3.03,,,8,0,20-30 saat,20-30 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 12:04:36,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,2.25,2.25,,,8,2,0-5 saat,10-20 saat,Lise,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+11.03.2026 12:06:34,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,81.5,78.33,16,0,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+11.03.2026 12:08:04,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.16,3.41,,,7,0,30-50 saat,50+ saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 12:17:27,Kadın,1.sınıf,Mühendislik Fakültesi,4'lük sistem,1.56,1.56,,,7,4,0-5 saat,0-5 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 12:18:28,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,2.54,2.54,,,14,0,5-10 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,10 - 15 saat
+11.03.2026 12:37:40,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,1.79,1.79,,,5,0,5-10 saat,10-20 saat,Üniversite,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+11.03.2026 12:38:44,Kadın,1.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.15,2.15,,,4,0,20-30 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,0 - 3 saat,3 - 6 saat
+11.03.2026 12:48:32,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.4,3.0,,,8,3,0-5 saat,5-10 saat,Lise,Lise,28.075 - 60.000 TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+11.03.2026 13:13:48,Kadın,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.24,3.24,,,5,0,20-30 saat,20-30 saat,Ortaokul,Lise,90.000+ TL,Çalışmıyorum.,Yurt,0 - 3 saat,3 - 6 saat
+11.03.2026 13:29:25,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.47,2.45,,,6,0,5-10 saat,5-10 saat,İlkokul,Üniversite,0 - 28.075 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 13:40:12,Kadın,1.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.11,2.23,,,7,1,5-10 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 13:42:00,Kadın,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.1,2.71,,,5,0,5-10 saat,10-20 saat,Ortaokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 13:44:17,Kadın,4.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,3.42,2.92,,,6,0,5-10 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 13:47:52,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.50,3.21,,,19,0,0-5 saat,20-30 saat,İlkokul,İlkokul,0 - 28.075 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 13:49:13,Kadın,1.sınıf,Diğer,4'lük sistem,3.14,3.10,,,10,0,0-5 saat,0-5 saat,Üniversite,Üniversite,0 - 28.075 TL,Part-Time çalışıyorum.,Aile evi,3 - 6 saat,0 - 3 saat
+11.03.2026 13:50:54,Kadın,1.sınıf,Diğer,4'lük sistem,2.90,3,,,9,0,0-5 saat,10-20 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 14:07:35,Erkek,2.sınıf,Diğer,4'lük sistem,2.05,1.55,,,8,3,0-5 saat,10-20 saat,Ortaokul,Lise,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 14:10:36,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,1.75,1.70,,,11,2,0-5 saat,50+ saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 14:15:06,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,0.66,0.70,,,4,1,0-5 saat,5-10 saat,İlkokul,İlkokul,0 - 28.075 TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+11.03.2026 14:23:28,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,1.26,1.26,,,6,2,0-5 saat,5-10 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 14:27:37,Erkek,Diğer,Diğer,100'lük sistem,,,100.00,97.41,10,0,20-30 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+11.03.2026 14:33:29,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.95,3.95,,,5,0,10-20 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 14:33:46,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.86,2.33,,,12,1,5-10 saat,30-50 saat,İlkokul,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 14:35:02,Kadın,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.86,2.86,,,6,0,20-30 saat,30-50 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,3 - 6 saat
+11.03.2026 14:43:19,Kadın,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.22,2.04,,,3,3,10-20 saat,5-10 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 14:47:15,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.77,3.07,,,9,0,10-20 saat,50+ saat,Üniversite,Ortaokul,0 - 28.075 TL,Part-Time çalışıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 15:04:10,Erkek,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.10,2.23,,,12,1,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+11.03.2026 15:21:38,Erkek,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.16,3.04,,,7,0,5-10 saat,10-20 saat,Ortaokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 15:36:54,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,1.9,1.8,,,5,1,0-5 saat,20-30 saat,Lise,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,3 - 6 saat
+11.03.2026 15:43:45,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.56,2.23,,,8,0,0-5 saat,5-10 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 16:00:31,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,72.00,74.0,6,0,10-20 saat,30-50 saat,Ortaokul,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 16:01:38,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,78.00,76.0,5,0,10-20 saat,30-50 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 16:30:03,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,4.0,4.0,,,5,0,30-50 saat,50+ saat,İlkokul,Ortaokul,0 - 28.075 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 16:32:58,Erkek,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.35,2.35,,,12,1,0-5 saat,0-5 saat,İlkokul,İlkokul,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 16:36:59,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.60,2.45,,,12,0,30-50 saat,50+ saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 16:44:36,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.52,2.92,,,6,1,10-20 saat,30-50 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Part-Time çalışıyorum.,Yurt,7 - 10 saat,3 - 6 saat
+11.03.2026 16:45:37,Erkek,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.6,2.6,,,12,1,10-20 saat,50+ saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 16:45:40,Kadın,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.97,3.03,,,7,0,0-5 saat,10-20 saat,Lise,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 16:58:51,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.65,2.55,,,9,0,0-5 saat,0-5 saat,İlkokul,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 16:58:52,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.78,3.78,,,8,0,20-30 saat,50+ saat,Hiçbiri,Üniversite,60.000 - 90.000 TL,Part-Time çalışıyorum.,Aile evi,0 - 3 saat,3 - 6 saat
+11.03.2026 17:00:24,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.64,2.64,,,18,0,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 17:23:32,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.55,2.45,,,8,1,5-10 saat,10-20 saat,İlkokul,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 17:30:47,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,43.00,56.5,5,0,5-10 saat,30-50 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 18:06:35,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.54,2.87,,,9,1,0-5 saat,50+ saat,Ortaokul,Ortaokul,28.075 - 60.000 TL,Part-Time çalışıyorum.,Öğrenci evi,0 - 3 saat,3 - 6 saat
+11.03.2026 18:14:03,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,1.37,2.01,,,6,2,10-20 saat,30-50 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 18:28:56,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,64.00,70.0,15,0,5-10 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 18:34:46,Erkek,2.sınıf,Mühendislik Fakültesi,100'lük sistem,,,85.00,80.0,6,1,0-5 saat,30-50 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 18:47:49,Kadın,5.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.76,3.72,,,8,0,5-10 saat,50+ saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 18:50:02,Kadın,5.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.20,3.35,,,8,0,10-20 saat,50+ saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+11.03.2026 18:55:19,Erkek,1.sınıf,Diğer,4'lük sistem,2.55,2.55,,,10,2,5-10 saat,20-30 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 19:13:47,Erkek,Diğer,Mühendislik Fakültesi,4'lük sistem,3.5,3.5,,,4,1,0-5 saat,5-10 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+11.03.2026 19:13:54,Erkek,2.sınıf,Diğer,4'lük sistem,4,4,,,3,1,0-5 saat,50+ saat,İlkokul,İlkokul,0 - 28.075 TL,Full-Time çalışıyorum.,Diğer,15 - 24 saat,0 - 3 saat
+11.03.2026 19:33:03,Kadın,1.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,3.12,3,,,10,0,0-5 saat,5-10 saat,Lise,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 19:41:00,Kadın,1.sınıf,Diğer,4'lük sistem,3.8,3.8,,,6,0,10-20 saat,5-10 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 19:44:43,Kadın,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.02,2.34,,,7,2,0-5 saat,30-50 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,10 - 15 saat,7 - 10 saat
+11.03.2026 19:58:55,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.03,2.05,,,9,2,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 20:01:15,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.17,3.17,,,8,0,5-10 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+11.03.2026 20:01:38,Erkek,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.62,2.63,,,7,0,20-30 saat,5-10 saat,Ortaokul,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,3 - 6 saat
+11.03.2026 20:13:07,Erkek,Diğer,Mühendislik Fakültesi,4'lük sistem,3.83,3.84,,,0,0,30-50 saat,30-50 saat,Lise,Üniversite,90.000+ TL,Full-Time çalışıyorum.,Diğer,3 - 6 saat,7 - 10 saat
+11.03.2026 20:19:59,Kadın,4.sınıf,Mühendislik Fakültesi,4'lük sistem,3.90,3.25,,,6,Yok,20-30 saat,30-50 saat,Ortaokul,Lise,28.075 - 60.000 TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 20:25:18,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.07,3,,,10,0,0-5 saat,0-5 saat,Üniversite,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+11.03.2026 20:26:14,Erkek,1.sınıf,Diğer,4'lük sistem,0,0,,,0,0,0-5 saat,5-10 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 20:27:19,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,58.00,57.0,230,2,0-5 saat,10-20 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 20:30:38,Erkek,Hazırlık,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,100'lük sistem,,,90.00,80.0,10,0,0-5 saat,0-5 saat,Lise,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,7 - 10 saat,7 - 10 saat
+11.03.2026 20:33:38,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.20,2.18,,,6,0,5-10 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 20:36:35,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.1,2.5,,,7,0,5-10 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+11.03.2026 20:40:02,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,68.75,64.6,10,0,0-5 saat,30-50 saat,İlkokul,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+11.03.2026 20:45:23,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.10,2.85,,,6,2,10-20 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+11.03.2026 20:46:01,Erkek,2.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,1.72,2.23,,,6,1,0-5 saat,0-5 saat,Ortaokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 20:48:20,Erkek,2.sınıf,Diğer,4'lük sistem,3.14,2.97,,,7,0,50+ saat,5-10 saat,Lise,Üniversite,0 - 28.075 TL,Çalışmıyorum.,Diğer,0 - 3 saat,3 - 6 saat
+11.03.2026 20:51:22,Erkek,1.sınıf,Diğer,4'lük sistem,0,3.28,,,0,0,20-30 saat,0-5 saat,Lise,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 20:51:25,Erkek,3.sınıf,Diğer,4'lük sistem,3.4,3.5,,,8,0,0-5 saat,10-20 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,7 - 10 saat,7 - 10 saat
+11.03.2026 20:53:01,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.31,3.31,,,13,0,0-5 saat,10-20 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 20:57:48,Kadın,4.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,2.42,2.26,,,10,4,0-5 saat,0-5 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 21:04:20,Erkek,4.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.50,2.20,,,9,1,0-5 saat,5-10 saat,Ortaokul,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+11.03.2026 21:10:08,Kadın,1.sınıf,Diğer,4'lük sistem,2.88,2.88,,,9,0,5-10 saat,10-20 saat,Üniversite,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 21:10:55,Kadın,1.sınıf,Diğer,4'lük sistem,2.47,2.47,,,9,2,0-5 saat,0-5 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,3 - 6 saat
+11.03.2026 21:21:47,Erkek,Diğer,Eğitim/Fen Fakültesi,4'lük sistem,2.77,2.70,,,11,1,0-5 saat,5-10 saat,İlkokul,İlkokul,90.000+ TL,Full-Time çalışıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 21:23:37,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.67,3.44,,,7,0,5-10 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+11.03.2026 21:24:44,Kadın,2.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.6,3.7,,,4,0,5-10 saat,10-20 saat,İlkokul,Lise,0 - 28.075 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 21:25:15,Kadın,1.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,3.46,3.46,,,8,0,0-5 saat,0-5 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,10 - 15 saat,10 - 15 saat
+11.03.2026 21:26:44,Kadın,1.sınıf,Diğer,4'lük sistem,3.10,3.10,,,8,8,0-5 saat,0-5 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Diğer,3 - 6 saat,7 - 10 saat
+11.03.2026 21:29:47,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,0.13,0.13,,,10,10,0-5 saat,0-5 saat,Lise,İlkokul,0 - 28.075 TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 21:30:31,Kadın,1.sınıf,Diğer,4'lük sistem,2.70,2.70,,,9,1,0-5 saat,10-20 saat,İlkokul,Ortaokul,0 - 28.075 TL,Çalışmıyorum.,Diğer,10 - 15 saat,3 - 6 saat
+11.03.2026 21:31:21,Kadın,Hazırlık,İlahiyat Fakültesi,4'lük sistem,2.80,2.75,,,20-30,0,20-30 saat,5-10 saat,İlkokul,İlkokul,0 - 28.075 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 21:32:07,Kadın,4.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.50,3.67,,,1,0,5-10 saat,30-50 saat,Lise,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 21:33:08,Erkek,Diğer,Havacılık ve Uzay Bilimleri Fakültesi,100'lük sistem,,,90.00,90.00,12,0,0-5 saat,0-5 saat,İlkokul,İlkokul,0 - 28.075 TL,Çalışmıyorum.,Yurt,0 - 3 saat,3 - 6 saat
+11.03.2026 21:34:38,Kadın,Diğer,Diğer,4'lük sistem,2.30,2.60,,,7,1,10-20 saat,20-30 saat,İlkokul,İlkokul,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,3 - 6 saat
+11.03.2026 21:37:45,Kadın,Diğer,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.05,2.93,,,8,0,10-20 saat,30-50 saat,Lise,Üniversite,90.000+ TL,Full-Time çalışıyorum.,Diğer,3 - 6 saat,3 - 6 saat
+11.03.2026 21:39:19,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.60,2.65,,,8,1,5-10 saat,20-30 saat,İlkokul,İlkokul,90.000+ TL,Çalışmıyorum.,Öğrenci evi,0 - 3 saat,3 - 6 saat
+11.03.2026 21:42:18,Kadın,4.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.8,3.9,,,4,0,0-5 saat,0-5 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 21:42:22,Erkek,Diğer,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.45,3.55,,,6,1,20-30 saat,10-20 saat,Lise,Lise,60.000 - 90.000 TL,Full-Time çalışıyorum.,Diğer,3 - 6 saat,7 - 10 saat
+11.03.2026 21:48:30,Erkek,Diğer,Diğer,4'lük sistem,3.0,3.0,,,8,1,20-30 saat,10-20 saat,Lise,Ortaokul,0 - 28.075 TL,Çalışmıyorum.,Öğrenci evi,10 - 15 saat,7 - 10 saat
+11.03.2026 21:49:28,Erkek,2.sınıf,Diğer,4'lük sistem,2.36,2.30,,,11,4,0-5 saat,5-10 saat,İlkokul,Lise,0 - 28.075 TL,Part-Time çalışıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 21:50:36,Kadın,3.sınıf,Eğitim/Fen Fakültesi,100'lük sistem,,,80.00,80.00,8,1,5-10 saat,20-30 saat,İlkokul,İlkokul,0 - 28.075 TL,Part-Time çalışıyorum.,Yurt,10 - 15 saat,7 - 10 saat
+11.03.2026 21:52:34,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.7,2.5,,,7,1,5-10 saat,20-30 saat,Ortaokul,İlkokul,28.075 - 60.000 TL,Part-Time çalışıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 21:53:32,Erkek,Diğer,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.63,3.43,,,8,0,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Full-Time çalışıyorum.,Diğer,3 - 6 saat,7 - 10 saat
+11.03.2026 21:54:45,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,0,0,,,7,7,0-5 saat,0-5 saat,Üniversite,Üniversite,90.000+ TL,Full-Time çalışıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 21:55:35,Erkek,Diğer,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3,3,,,7,0,0-5 saat,5-10 saat,Ortaokul,Ortaokul,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,3 - 6 saat
+11.03.2026 21:58:38,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.35,3.42,,,10,0,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 21:59:42,Kadın,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.86,2.86,,,5,0,30-50 saat,20-30 saat,Ortaokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 22:02:53,Kadın,3.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.35,3.26,,,9,0,5-10 saat,10-20 saat,Ortaokul,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 22:03:28,Erkek,2.sınıf,Diğer,4'lük sistem,3.13,3.11,,,9,0,0-5 saat,0-5 saat,Lise,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+11.03.2026 22:04:21,Kadın,Diğer,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.45,3.20,,,7,0,10-20 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 22:06:34,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2,2,,,12,3,20-30 saat,10-20 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 22:09:03,Erkek,3.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.35,3,,,5,0,5-10 saat,10-20 saat,İlkokul,Lise,28.075 - 60.000 TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+11.03.2026 22:12:28,Erkek,Diğer,Diğer,100'lük sistem,,,86.5,81.0,20,0,5-10 saat,5-10 saat,Hiçbiri,Hiçbiri,60.000 - 90.000 TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 22:18:47,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.7,2.7,,,11,1,0-5 saat,10-20 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+11.03.2026 22:20:41,Kadın,2.sınıf,Diğer,4'lük sistem,3.37,3.72,,,9,0,0-5 saat,5-10 saat,Hiçbiri,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 22:23:28,Erkek,Diğer,Eğitim/Fen Fakültesi,4'lük sistem,3,2.9,,,13,2,0-5 saat,10-20 saat,İlkokul,Lise,60.000 - 90.000 TL,Full-Time çalışıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 22:28:14,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.10,2.92,,,13,1,10-20 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Yurt,10 - 15 saat,3 - 6 saat
+11.03.2026 22:31:34,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.2,2.86,,,9,0,10-20 saat,20-30 saat,Lise,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+11.03.2026 22:35:19,Kadın,Diğer,Diğer,4'lük sistem,3.45,3.42,,,5,5,0-5 saat,5-10 saat,İlkokul,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 22:37:10,Erkek,Diğer,Eğitim/Fen Fakültesi,4'lük sistem,3.10,2.90,,,8,0,5-10 saat,5-10 saat,Lise,Lise,60.000 - 90.000 TL,Full-Time çalışıyorum.,Diğer,0 - 3 saat,7 - 10 saat
+11.03.2026 22:48:27,Kadın,2.sınıf,Diğer,4'lük sistem,3.40,3.40,,,9,0,0-5 saat,5-10 saat,Ortaokul,Ortaokul,0 - 28.075 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+11.03.2026 22:48:43,Kadın,2.sınıf,Diğer,4'lük sistem,3.14,3.45,,,9,0,0-5 saat,5-10 saat,İlkokul,Lise,0 - 28.075 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 22:52:13,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.24,3.24,,,7,0,10-20 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+11.03.2026 22:58:15,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.15,2.75,,,6,0,10-20 saat,30-50 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+11.03.2026 22:58:15,Erkek,3.sınıf,Diğer,4'lük sistem,2.85,3.25,,,8,0,5-10 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Diğer,0 - 3 saat,3 - 6 saat
+11.03.2026 23:05:24,Erkek,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.67,2.51,,,10,1,20-30 saat,0-5 saat,İlkokul,İlkokul,0 - 28.075 TL,Çalışmıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+11.03.2026 23:05:47,Kadın,2.sınıf,Diğer,4'lük sistem,3.40,3.15,,,14,0,0-5 saat,0-5 saat,Üniversite,İlkokul,0 - 28.075 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 23:06:44,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.20,2.20,,,9,2,0-5 saat,20-30 saat,Hiçbiri,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,10 - 15 saat
+11.03.2026 23:07:57,Kadın,1.sınıf,Diğer,4'lük sistem,2,2,,,11,5,5-10 saat,0-5 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Diğer,3 - 6 saat,7 - 10 saat
+11.03.2026 23:08:44,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.63,2.63,,,7,2,0-5 saat,20-30 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+11.03.2026 23:26:37,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.20,2.45,,,6,1,5-10 saat,5-10 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+11.03.2026 23:44:14,Erkek,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,100.00,100.00,9,0,50+ saat,50+ saat,İlkokul,İlkokul,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,15 - 24 saat,3 - 6 saat
+11.03.2026 23:52:17,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.1,3.2,,,8,0,5-10 saat,10-20 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+12.03.2026 00:12:21,Kadın,2.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,2.59,3.12,,,6,1,5-10 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,10 - 15 saat,7 - 10 saat
+12.03.2026 00:39:36,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.75,3.75,,,6,0,10-20 saat,20-30 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 01:18:19,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.19,3.3,,,9,0,5-10 saat,50+ saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+12.03.2026 02:27:10,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.74,2.62,,,9,0,0-5 saat,30-50 saat,Ortaokul,Lise,90.000+ TL,Çalışmıyorum.,Diğer,3 - 6 saat,3 - 6 saat
+12.03.2026 02:59:09,Kadın,5.sınıf,Mühendislik Fakültesi,4'lük sistem,4,3.90,,,5,0,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+12.03.2026 03:20:34,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,2.8,2.8,,,5,0,0-5 saat,20-30 saat,İlkokul,İlkokul,90.000+ TL,Part-Time çalışıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+12.03.2026 03:21:58,Erkek,Hazırlık,Diğer,100'lük sistem,,,78.2,78.2,1,1,0-5 saat,0-5 saat,Lise,İlkokul,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+12.03.2026 03:46:44,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.42,1.82,,,6,1,5-10 saat,30-50 saat,Lise,İlkokul,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,3 - 6 saat
+12.03.2026 03:48:16,Kadın,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.35,1.85,,,9,3,0-5 saat,0-5 saat,Lise,Lise,0 - 28.075 TL,Çalışmıyorum.,Yurt,7 - 10 saat,3 - 6 saat
+12.03.2026 05:11:51,Kadın,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.33,3.13,,,9,0,0-5 saat,30-50 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 05:26:32,Erkek,Diğer,Diğer,4'lük sistem,2.89,2.9,,,8,9,5-10 saat,5-10 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+12.03.2026 05:30:57,Kadın,6.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,100'lük sistem,,,93.5,93.5,7,1,10-20 saat,20-30 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,3 - 6 saat
+12.03.2026 05:32:54,Kadın,Diğer,Diğer,100'lük sistem,,,60.00,60.00,3,3,0-5 saat,0-5 saat,Hiçbiri,Hiçbiri,60.000 - 90.000 TL,Full-Time çalışıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+12.03.2026 05:37:20,Kadın,4.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,3.15,2.90,,,6,2,5-10 saat,5-10 saat,Hiçbiri,İlkokul,28.075 - 60.000 TL,Full-Time çalışıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 05:47:30,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.12,3.12,,,8,0,20-30 saat,0-5 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 05:56:22,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.48,3.48,,,4,0,5-10 saat,10-20 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+12.03.2026 05:57:28,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,1.12,1.80,,,6,3,0-5 saat,20-30 saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+12.03.2026 05:59:42,Erkek,1.sınıf,Hukuk Fakültesi,4'lük sistem,2.70,2.70,,,10,1,5-10 saat,20-30 saat,Lise,İlkokul,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 06:30:50,Erkek,1.sınıf,Diğer,4'lük sistem,1.56,2.03,,,6,2,0-5 saat,0-5 saat,Lise,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+12.03.2026 08:01:55,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.23,3.4,,,6,1,5-10 saat,5-10 saat,Lise,Üniversite,28.075 - 60.000 TL,Part-Time çalışıyorum.,Yurt,10 - 15 saat,3 - 6 saat
+12.03.2026 08:59:17,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,2.46,2.46,,,7,1,10-20 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+12.03.2026 09:16:29,Erkek,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.15,2.18,,,12,2,10-20 saat,20-30 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Full-Time çalışıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+12.03.2026 09:24:14,Erkek,Hazırlık,Mühendislik Fakültesi,4'lük sistem,4,4,,,12,0,50+ saat,50+ saat,Hiçbiri,Hiçbiri,90.000+ TL,Full-Time çalışıyorum.,Öğrenci evi,15 - 24 saat,15 - 24 saat
+12.03.2026 09:56:22,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.73,3.73,,,9,0,0-5 saat,5-10 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 10:23:27,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.16,3.16,,,7,0,0-5 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,7 - 10 saat,3 - 6 saat
+12.03.2026 10:25:46,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,2.38,2.36,,,7,2,5-10 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,3 - 6 saat
+12.03.2026 10:39:23,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,3.90,3.75,,,8,8,0-5 saat,5-10 saat,Ortaokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+12.03.2026 10:39:35,Kadın,1.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.63,3.67,,,10,0,5-10 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+12.03.2026 10:39:41,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.44,3.44,,,7,0,20-30 saat,30-50 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+12.03.2026 10:42:27,Erkek,Diğer,Diğer,4'lük sistem,2.91,2.89,,,1,0,0-5 saat,0-5 saat,Lise,Ortaokul,28.075 - 60.000 TL,Full-Time çalışıyorum.,Aile evi,0 - 3 saat,7 - 10 saat
+12.03.2026 10:52:11,Erkek,4.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.95,2.95,,,5,3,5-10 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Diğer,3 - 6 saat,7 - 10 saat
+12.03.2026 11:26:32,Erkek,Hazırlık,Mühendislik Fakültesi,4'lük sistem,0,0,,,1,1,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 11:49:42,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.40,3.40,,,11,0,0-5 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 11:58:27,Kadın,Diğer,Diğer,4'lük sistem,2.31,2.31,,,9,3,0-5 saat,50+ saat,Hiçbiri,Hiçbiri,90.000+ TL,Çalışmıyorum.,Diğer,15 - 24 saat,15 - 24 saat
+12.03.2026 12:08:46,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.13,3.11,,,11,0,5-10 saat,5-10 saat,İlkokul,Lise,60.000 - 90.000 TL,Full-Time çalışıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+12.03.2026 12:22:44,Kadın,Hazırlık,Mühendislik Fakültesi,4'lük sistem,2.15,2.15,,,7,7,0-5 saat,0-5 saat,İlkokul,İlkokul,0 - 28.075 TL,Çalışmıyorum.,Diğer,15 - 24 saat,0 - 3 saat
+12.03.2026 12:27:46,Erkek,1.sınıf,Diğer,4'lük sistem,2.17,2.17,,,11,1,0-5 saat,0-5 saat,Lise,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 12:42:59,Erkek,Diğer,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,80.2,70.3,12,2,0-5 saat,50+ saat,İlkokul,Ortaokul,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,3 - 6 saat
+12.03.2026 12:51:07,Erkek,2.sınıf,Diğer,4'lük sistem,3.80,3.28,,,6,0,0-5 saat,10-20 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 12:54:24,Kadın,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.78,3.68,,,7,0,10-20 saat,50+ saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 13:00:12,Erkek,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2,2,,,5,0,0-5 saat,5-10 saat,Lise,Lise,60.000 - 90.000 TL,Full-Time çalışıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+12.03.2026 13:18:29,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.88,3.88,,,7,0,0-5 saat,10-20 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 13:19:42,Erkek,1.sınıf,Diğer,4'lük sistem,0.00,0.00,,,7,0,20-30 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 13:26:13,Erkek,4.sınıf,Mühendislik Fakültesi,4'lük sistem,3,2.86,,,7,7,0-5 saat,0-5 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 13:54:52,Kadın,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,100'lük sistem,,,99.9,98.80,15,0,50+ saat,50+ saat,İlkokul,İlkokul,90.000+ TL,Full-Time çalışıyorum.,Diğer,15 - 24 saat,15 - 24 saat
+12.03.2026 13:59:49,Kadın,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.50,3.52,,,4,0,10-20 saat,30-50 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 14:02:59,Erkek,1.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.67,2.67,,,7,0,0-5 saat,5-10 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+12.03.2026 14:05:05,Erkek,3.sınıf,Hukuk Fakültesi,4'lük sistem,2.41,2.29,,,15,1,0-5 saat,10-20 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+12.03.2026 14:14:09,Kadın,2.sınıf,Diğer,4'lük sistem,3.3,3.3,,,12,0,0-5 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,7 - 10 saat,7 - 10 saat
+12.03.2026 14:27:47,Erkek,3.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.10,4,,,10,8,10-20 saat,10-20 saat,Lise,Lise,60.000 - 90.000 TL,Full-Time çalışıyorum.,Diğer,7 - 10 saat,7 - 10 saat
+12.03.2026 14:30:44,Erkek,1.sınıf,Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi,4'lük sistem,3.43,3.43,,,9,1,5-10 saat,10-20 saat,İlkokul,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,10 - 15 saat,7 - 10 saat
+12.03.2026 14:37:22,Kadın,4.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.20,2.95,,,6,0,0-5 saat,10-20 saat,Ortaokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 14:48:50,Erkek,4.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.7,3.1,,,4,1,10-20 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Part-Time çalışıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+12.03.2026 16:48:15,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,3.21,3.31,,,6,0,10-20 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+12.03.2026 16:56:28,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.9,2.9,,,11,3,0-5 saat,5-10 saat,İlkokul,Üniversite,90.000+ TL,Çalışmıyorum.,Yurt,10 - 15 saat,7 - 10 saat
+12.03.2026 17:03:26,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.85,3.85,,,8,0,20-30 saat,30-50 saat,İlkokul,Ortaokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+12.03.2026 17:16:09,Erkek,1.sınıf,Diğer,100'lük sistem,,,95.00,100.00,10,0,5-10 saat,20-30 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 17:41:41,Erkek,3.sınıf,Mühendislik Fakültesi,4'lük sistem,2.67,3.67,,,11,3,5-10 saat,20-30 saat,Lise,Ortaokul,90.000+ TL,Part-Time çalışıyorum.,Yurt,3 - 6 saat,3 - 6 saat
+12.03.2026 17:41:58,Erkek,Diğer,Hukuk Fakültesi,100'lük sistem,,,97.8,99.00,13,2,30-50 saat,10-20 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Aile evi,3 - 6 saat,7 - 10 saat
+12.03.2026 18:56:47,Kadın,3.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,3.09,3.53,,,6,1,0-5 saat,5-10 saat,Üniversite,Üniversite,28.075 - 60.000 TL,Çalışmıyorum.,Öğrenci evi,10 - 15 saat,7 - 10 saat
+12.03.2026 20:32:14,Erkek,1.sınıf,Diğer,4'lük sistem,2.26,2.26,,,8,2,0-5 saat,10-20 saat,Lise,Ortaokul,28.075 - 60.000 TL,Part-Time çalışıyorum.,Yurt,7 - 10 saat,10 - 15 saat
+12.03.2026 20:35:11,Erkek,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.7,2.9,,,9,2,20-30 saat,20-30 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 21:10:11,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.6,3.6,,,7,6,5-10 saat,10-20 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,0 - 3 saat,7 - 10 saat
+12.03.2026 21:41:54,Erkek,1.sınıf,Havacılık ve Uzay Bilimleri Fakültesi,4'lük sistem,3.76,3.68,,,13,0,10-20 saat,30-50 saat,Üniversite,Lise,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+12.03.2026 21:49:50,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.22,3.22,,,10,0,0-5 saat,10-20 saat,İlkokul,İlkokul,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,15 - 24 saat,7 - 10 saat
+12.03.2026 22:13:31,Erkek,1.sınıf,Mühendislik Fakültesi,4'lük sistem,3.97,3.97,,,7,0,0-5 saat,10-20 saat,Üniversite,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Öğrenci evi,7 - 10 saat,7 - 10 saat
+13.03.2026 01:00:40,Erkek,Hazırlık,Diğer,4'lük sistem,3.44,3.14,,,7,0,5-10 saat,20-30 saat,Üniversite,Üniversite,90.000+ TL,Part-Time çalışıyorum.,Öğrenci evi,0 - 3 saat,7 - 10 saat
+13.03.2026 02:05:43,Kadın,3.sınıf,Diğer,4'lük sistem,3.64,3.22,,,9,0,5-10 saat,20-30 saat,Lise,Ortaokul,28.075 - 60.000 TL,Part-Time çalışıyorum.,Öğrenci evi,10 - 15 saat,7 - 10 saat
+13.03.2026 02:27:11,Erkek,Hazırlık,Mühendislik Fakültesi,100'lük sistem,,,83.2,85.1,15,3,0-5 saat,0-5 saat,Üniversite,Üniversite,90.000+ TL,Çalışmıyorum.,Öğrenci evi,15 - 24 saat,0 - 3 saat
+13.03.2026 07:55:31,Erkek,2.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,3.41,3.27,,,8,0,0-5 saat,10-20 saat,Üniversite,Lise,0 - 28.075 TL,Çalışmıyorum.,Öğrenci evi,3 - 6 saat,7 - 10 saat
+13.03.2026 15:12:35,Erkek,2.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,2.67,2.85,,,13,0,0-5 saat,20-30 saat,İlkokul,Lise,28.075 - 60.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+13.03.2026 22:19:20,Erkek,1.sınıf,Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi,4'lük sistem,3.8,3.63,,,5,0,30-50 saat,50+ saat,Lise,Üniversite,60.000 - 90.000 TL,Çalışmıyorum.,Yurt,3 - 6 saat,7 - 10 saat
+13.03.2026 22:43:33,Erkek,3.sınıf,Eğitim/Fen Fakültesi,4'lük sistem,2.76,3.06,,,10,2,0-5 saat,0-5 saat,İlkokul,Ortaokul,60.000 - 90.000 TL,Part-Time çalışıyorum.,Aile evi,7 - 10 saat,7 - 10 saat
+14.03.2026 08:20:21,Erkek,2.sınıf,Diğer,4'lük sistem,0.95,2.43,,,10,8,0-5 saat,5-10 saat,İlkokul,İlkokul,90.000+ TL,Full-Time çalışıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
+14.03.2026 12:04:45,Erkek,4.sınıf,Güzel Sanatlar ve Mimarlık Fakültesi,4'lük sistem,4,3.16,,,6,0,0-5 saat,0-5 saat,Lise,Üniversite,90.000+ TL,Çalışmıyorum.,Diğer,10 - 15 saat,7 - 10 saat
+14.03.2026 16:06:25,Erkek,2.sınıf,Mühendislik Fakültesi,4'lük sistem,3.15,2.75,,,6,3,0-5 saat,5-10 saat,Lise,Ortaokul,90.000+ TL,Çalışmıyorum.,Aile evi,3 - 6 saat,3 - 6 saat
