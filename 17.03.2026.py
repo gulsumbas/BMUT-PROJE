@@ -114,7 +114,7 @@ print(len(df))
 print("\n--- NOT SİSTEMİ DAĞILIMI ---")
 print(df["Not_Sistemi"].value_counts(dropna=False))
 
- =
+
 analiz_sayisal = [
     "Ortak_Basari_100",
     "Ortak_Gecen_100",
