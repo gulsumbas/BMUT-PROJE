@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Öğrenci Başarısı Tahmin Sistemi</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;1,9..40,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="page">
+
+    <!-- TOPBAR -->
+    <div class="topbar">
+        <button class="theme-toggle" id="themeBtn" onclick="toggleTheme()" title="Tema değiştir">
+            <span class="icon" id="themeIcon">🌙</span>
+            <span id="themeLabel">Koyu Mod</span>
+        </button>
+    </div>
+
+    <!-- HERO -->
+    <div class="hero">
+        <div class="hero-badge">✦ Makine Öğrenmesi</div>
+        <h1>Öğrenci Başarısı<br>Tahmin Sistemi</h1>
+        <p>Akademik ve yaşam bilgilerinizi girerek makine öğrenmesi modelinin sizin için hesapladığı tahmini başarı puanını görüntüleyin.</p>
+        <div class="hero-stats">
+            <div class="stat">
+                <span class="stat-value">4</span>
+                <span class="stat-label">Bölüm</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value">~3dk</span>
+                <span class="stat-label">Tahmini süre</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value">100</span>
+                <span class="stat-label">Üzerinden puan</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- PROGRESS -->
+    <div class="progress-wrap">
+        <div class="progress-header">
+            <span class="progress-label">Tamamlanma Durumu</span>
+            <span class="progress-count" id="progressCount">0 / 14 soru</span>
+        </div>
+        <div class="progress-bar-bg">
+            <div class="progress-bar-fill" id="progressFill"></div>
+        </div>
+    </div>
+
+    <!-- ERROR -->
+    {% if error %}
+    <div class="error">
+        <span class="error-icon">⚠️</span>
+        <div>{{ error }}</div>
+    </div>
+    {% endif %}
+
+    <!-- RESULT -->
+    {% if prediction is not none %}
+    <div class="result">
+        <div class="result-label">✓ Tahmin Tamamlandı</div>
+        <div class="score">{{ prediction }}<span class="score-sub"> / 100</span></div>
+        <div class="score-meter">
+            <div class="score-meter-fill" style="width: {{ prediction }}%"></div>
+        </div>
+        <p>{{ yorum }}</p>
+    </div>
+    {% endif %}
+
+    <!-- FORM -->
+    <form method="POST" id="anketForm">
+
+        <!-- BÖLÜM 1 -->
+        <div class="section-header">
+            <div class="section-num">1</div>
+            <span class="section-title">Genel Bilgiler</span>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Cinsiyetiniz nedir? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label">
+                    <input type="radio" name="Cinsiyet" value="Kadın" required> Kadın
+                </label>
+                <label class="option-label">
+                    <input type="radio" name="Cinsiyet" value="Erkek"> Erkek
+                </label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Kaçıncı sınıfta eğitim görüyorsunuz? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Sinif" value="0" required> Hazırlık</label>
+                <label class="option-label"><input type="radio" name="Sinif" value="1"> 1. Sınıf</label>
+                <label class="option-label"><input type="radio" name="Sinif" value="2"> 2. Sınıf</label>
+                <label class="option-label"><input type="radio" name="Sinif" value="3"> 3. Sınıf</label>
+                <label class="option-label"><input type="radio" name="Sinif" value="4"> 4. Sınıf</label>
+                <label class="option-label"><input type="radio" name="Sinif" value="5"> 5. Sınıf</label>
+                <label class="option-label"><input type="radio" name="Sinif" value="6"> 6. Sınıf</label>
+                <label class="option-label"><input type="radio" name="Sinif" value="3"> Diğer</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Hangi fakültede öğrenim görüyorsunuz? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Fakulte" value="Mühendislik Fakültesi" required> Mühendislik Fakültesi</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="Havacılık ve Uzay Bilimleri Fakültesi"> Havacılık ve Uzay Bilimleri Fakültesi</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="Güzel Sanatlar ve Mimarlık Fakültesi"> Güzel Sanatlar ve Mimarlık Fakültesi</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="Sağlık Bilimleri/Hemşirelik/Tıp/Diş Hekimliği Fakültesi"> Sağlık Bilimleri / Hemşirelik / Tıp / Diş Hekimliği</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="Sosyal ve Beşeri Bilimler/Siyasal Bilgiler Fakültesi"> Sosyal ve Beşeri Bilimler / Siyasal Bilgiler</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="Hukuk Fakültesi"> Hukuk Fakültesi</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="Eğitim/Fen Fakültesi"> Eğitim / Fen Fakültesi</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="İlahiyat Fakültesi"> İlahiyat Fakültesi</label>
+                <label class="option-label"><input type="radio" name="Fakulte" value="Diğer"> Diğer</label>
+            </div>
+        </div>
+
+        <!-- BÖLÜM 2 -->
+        <div class="section-header">
+            <div class="section-num">2</div>
+            <span class="section-title">Not Ortalaması</span>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Not ortalamanız hangi sistem üzerinden hesaplanıyor? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label">
+                    <input type="radio" name="Not_Sistemi" value="4'lük sistem" required onclick="toggleGradeSystem()"> 4'lük Sistem
+                </label>
+                <label class="option-label">
+                    <input type="radio" name="Not_Sistemi" value="100'lük sistem" onclick="toggleGradeSystem()"> 100'lük Sistem
+                </label>
+            </div>
+        </div>
+
+        <div id="grade4" class="hidden grade-section">
+            <div class="question">
+                <label class="question-title">4'lük sistemde geçen dönemki ortalamanız <span class="req">*</span></label>
+                <p class="hint">💡 Örnek: 2.15</p>
+                <input class="text-input grade4-input" type="number" step="0.01" min="0" max="4" name="Gecen_4luk" placeholder="0.00 – 4.00">
+            </div>
+            <div class="question">
+                <label class="question-title">4'lük sistemde genel ortalamanız <span class="req">*</span></label>
+                <p class="hint">💡 Örnek: 2.15</p>
+                <input class="text-input grade4-input" type="number" step="0.01" min="0" max="4" name="Genel_4luk" placeholder="0.00 – 4.00">
+            </div>
+        </div>
+
+        <div id="grade100" class="hidden grade-section">
+            <div class="question">
+                <label class="question-title">100'lük sistemde geçen dönemki ortalamanız <span class="req">*</span></label>
+                <p class="hint">💡 Örnek: 93.5</p>
+                <input class="text-input grade100-input" type="number" step="0.01" min="0" max="100" name="Gecen_100luk" placeholder="0 – 100">
+            </div>
+            <div class="question">
+                <label class="question-title">100'lük sistemde genel ortalamanız <span class="req">*</span></label>
+                <p class="hint">💡 Örnek: 93.5</p>
+                <input class="text-input grade100-input" type="number" step="0.01" min="0" max="100" name="Genel_100luk" placeholder="0 – 100">
+            </div>
+        </div>
+
+        <!-- BÖLÜM 3 -->
+        <div class="section-header">
+            <div class="section-num">3</div>
+            <span class="section-title">Akademik Bilgiler</span>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Önceki dönem aldığınız ders sayısı <span class="req">*</span></label>
+            <input class="text-input" type="number" min="0" name="Ders_Sayisi" required placeholder="Örn: 8">
+        </div>
+
+        <div class="question">
+            <label class="question-title">Önceki dönem başarısız olduğunuz ders sayısı <span class="req">*</span></label>
+            <input class="text-input" type="number" min="0" name="Basarisiz_Ders" required placeholder="Örn: 1">
+        </div>
+
+        <div class="question">
+            <label class="question-title">Haftada kaç saat ders çalışıyorsunuz? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Haftalik_Calisma" value="1" required> 0 – 5 saat</label>
+                <label class="option-label"><input type="radio" name="Haftalik_Calisma" value="2"> 5 – 10 saat</label>
+                <label class="option-label"><input type="radio" name="Haftalik_Calisma" value="3"> 10 – 20 saat</label>
+                <label class="option-label"><input type="radio" name="Haftalik_Calisma" value="4"> 20 – 30 saat</label>
+                <label class="option-label"><input type="radio" name="Haftalik_Calisma" value="5"> 30 – 50 saat</label>
+                <label class="option-label"><input type="radio" name="Haftalik_Calisma" value="6"> 50+ saat</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Sınav haftaları kaç saat ders çalışıyorsunuz? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Sinav_Haftasi_Calisma" value="1" required> 0 – 5 saat</label>
+                <label class="option-label"><input type="radio" name="Sinav_Haftasi_Calisma" value="2"> 5 – 10 saat</label>
+                <label class="option-label"><input type="radio" name="Sinav_Haftasi_Calisma" value="3"> 10 – 20 saat</label>
+                <label class="option-label"><input type="radio" name="Sinav_Haftasi_Calisma" value="4"> 20 – 30 saat</label>
+                <label class="option-label"><input type="radio" name="Sinav_Haftasi_Calisma" value="5"> 30 – 50 saat</label>
+                <label class="option-label"><input type="radio" name="Sinav_Haftasi_Calisma" value="6"> 50+ saat</label>
+            </div>
+        </div>
+
+        <!-- BÖLÜM 4 -->
+        <div class="section-header">
+            <div class="section-num">4</div>
+            <span class="section-title">Yaşam Bilgileri</span>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Annenizin eğitim durumu <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Anne_Egitim" value="0" required> Hiçbiri</label>
+                <label class="option-label"><input type="radio" name="Anne_Egitim" value="1"> İlkokul</label>
+                <label class="option-label"><input type="radio" name="Anne_Egitim" value="2"> Ortaokul</label>
+                <label class="option-label"><input type="radio" name="Anne_Egitim" value="3"> Lise</label>
+                <label class="option-label"><input type="radio" name="Anne_Egitim" value="4"> Üniversite</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Babanızın eğitim durumu <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Baba_Egitim" value="0" required> Hiçbiri</label>
+                <label class="option-label"><input type="radio" name="Baba_Egitim" value="1"> İlkokul</label>
+                <label class="option-label"><input type="radio" name="Baba_Egitim" value="2"> Ortaokul</label>
+                <label class="option-label"><input type="radio" name="Baba_Egitim" value="3"> Lise</label>
+                <label class="option-label"><input type="radio" name="Baba_Egitim" value="4"> Üniversite</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Evinizin aylık toplam geliri <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Aylik_Gelir" value="1" required> 0 – 28.075 TL</label>
+                <label class="option-label"><input type="radio" name="Aylik_Gelir" value="2"> 28.075 – 60.000 TL</label>
+                <label class="option-label"><input type="radio" name="Aylik_Gelir" value="3"> 60.000 – 90.000 TL</label>
+                <label class="option-label"><input type="radio" name="Aylik_Gelir" value="4"> 90.000+ TL</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Bir işte çalışıyor musunuz? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Calisma_Durumu" value="Çalışmıyorum." required> Çalışmıyorum</label>
+                <label class="option-label"><input type="radio" name="Calisma_Durumu" value="Part-Time çalışıyorum."> Part-Time çalışıyorum</label>
+                <label class="option-label"><input type="radio" name="Calisma_Durumu" value="Full-Time çalışıyorum."> Full-Time çalışıyorum</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Eğitim döneminde nerede ikamet ediyorsunuz? <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Ikamet" value="Aile evi" required> Aile evi</label>
+                <label class="option-label"><input type="radio" name="Ikamet" value="Öğrenci evi"> Öğrenci evi</label>
+                <label class="option-label"><input type="radio" name="Ikamet" value="Yurt"> Yurt</label>
+                <label class="option-label"><input type="radio" name="Ikamet" value="Diğer"> Diğer</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Günlük ortalama ekran süreniz <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Ekran_Suresi" value="1" required> 0 – 3 saat</label>
+                <label class="option-label"><input type="radio" name="Ekran_Suresi" value="2"> 3 – 6 saat</label>
+                <label class="option-label"><input type="radio" name="Ekran_Suresi" value="3"> 7 – 10 saat</label>
+                <label class="option-label"><input type="radio" name="Ekran_Suresi" value="4"> 10 – 15 saat</label>
+                <label class="option-label"><input type="radio" name="Ekran_Suresi" value="5"> 15 – 24 saat</label>
+            </div>
+        </div>
+
+        <div class="question">
+            <label class="question-title">Günlük ortalama uyku süreniz <span class="req">*</span></label>
+            <div class="options-grid">
+                <label class="option-label"><input type="radio" name="Uyku_Suresi" value="1" required> 0 – 3 saat</label>
+                <label class="option-label"><input type="radio" name="Uyku_Suresi" value="2"> 3 – 6 saat</label>
+                <label class="option-label"><input type="radio" name="Uyku_Suresi" value="3"> 7 – 10 saat</label>
+                <label class="option-label"><input type="radio" name="Uyku_Suresi" value="4"> 10 – 15 saat</label>
+                <label class="option-label"><input type="radio" name="Uyku_Suresi" value="5"> 15 – 24 saat</label>
+            </div>
+        </div>
+
+        <div class="submit-wrap">
+            <button type="submit" class="btn-submit">
+                ✦ Başarı Tahmini Yap
+            </button>
+        </div>
+
+    </form>
+
+    <div class="footer">
+        Makine öğrenmesi modeli eğitim verilerine dayanarak tahmin üretir. Kesin sonuç değildir.
+    </div>
+</div>
+
+<script>
+/* ===== DARK MODE ===== */
+(function() {
+    const saved = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', saved);
+})();
+
+function toggleTheme() {
+    const html = document.documentElement;
+    const current = html.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+    updateThemeBtn(next);
+}
+
+function updateThemeBtn(theme) {
+    const icon = document.getElementById('themeIcon');
+    const label = document.getElementById('themeLabel');
+    if (theme === 'dark') {
+        icon.textContent = '☀️';
+        label.textContent = 'Açık Mod';
+    } else {
+        icon.textContent = '🌙';
+        label.textContent = 'Koyu Mod';
+    }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    const current = document.documentElement.getAttribute('data-theme');
+    updateThemeBtn(current);
+    updateProgress();
+});
+
+/* ===== GRADE SYSTEM TOGGLE ===== */
+function toggleGradeSystem() {
+    const selected = document.querySelector('input[name="Not_Sistemi"]:checked');
+    const grade4 = document.getElementById("grade4");
+    const grade100 = document.getElementById("grade100");
+    const grade4Inputs = document.querySelectorAll(".grade4-input");
+    const grade100Inputs = document.querySelectorAll(".grade100-input");
+    if (!selected) return;
+    if (selected.value === "4'lük sistem") {
+        grade4.classList.remove("hidden");
+        grade100.classList.add("hidden");
+        grade4Inputs.forEach(i => i.required = true);
+        grade100Inputs.forEach(i => { i.required = false; i.value = ""; });
+    } else {
+        grade100.classList.remove("hidden");
+        grade4.classList.add("hidden");
+        grade100Inputs.forEach(i => i.required = true);
+        grade4Inputs.forEach(i => { i.required = false; i.value = ""; });
+    }
+}
+
+/* ===== PROGRESS ===== */
+function updateProgress() {
+    const form = document.getElementById('anketForm');
+    const radios = form.querySelectorAll('input[type="radio"]');
+    const texts = form.querySelectorAll('input[type="number"]');
+
+    const answeredRadios = new Set();
+    radios.forEach(r => { if (r.checked) answeredRadios.add(r.name); });
+
+    let answeredTexts = 0;
+    texts.forEach(t => { if (t.value.trim() !== '') answeredTexts++; });
+
+    const total = 14;
+    const done = Math.min(answeredRadios.size + answeredTexts, total);
+    const pct = Math.round((done / total) * 100);
+
+    document.getElementById('progressCount').textContent = done + ' / ' + total + ' soru';
+    document.getElementById('progressFill').style.width = pct + '%';
+}
+
+document.getElementById('anketForm').addEventListener('change', updateProgress);
+document.getElementById('anketForm').addEventListener('input', updateProgress);
+</script>
+</body>
+</html>
