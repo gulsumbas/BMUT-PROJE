@@ -111,7 +111,7 @@ df.loc[(df["Ortak_Basari_4"] < 0) | (df["Ortak_Basari_4"] > 4), "Ortak_Basari_4"
 df = df[df["Ortak_Basari_100"].notna()].copy()
 
 # =========================================================
-# Mantıksız ders kayıtlarını temizle
+# Mantıksız ders kayıtlarını temizler
 # Başarısız ders sayısı toplam dersten fazla olamaz
 # =========================================================
 df.loc[
@@ -335,11 +335,6 @@ print(df[[
     "Uyku_Suresi"
 ]].isna().sum())
 
-# =========================================================
-# ÖNEMLİ: Aylik_Gelir, Ekran_Suresi, Uyku_Suresi
-# map'lerini GERÇEK KATEGORİLER çıktısına göre doldur.
-# Şimdilik kategorik olarak bırakıyoruz — hata vermesin diye.
-# =========================================================
 
 # =========================================================
 # 9.6) FEATURE ENGINEERING
